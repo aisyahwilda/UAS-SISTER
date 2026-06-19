@@ -2,8 +2,7 @@
 
 **Mata Kuliah:** Sistem Paralel dan Terdistribusi - E2526  
 **Tema:** Pub-Sub Log Aggregator dengan Idempotent Consumer, Deduplication, dan Transaksi/Kontrol Konkurensi  
-**Bahasa Pemrograman:** Python  
-**Referensi Utama:** Coulouris, G., Dollimore, J., Kindberg, T., & Blair, G. (2011). *Distributed Systems: Concepts and Design* (5th ed.). Addison-Wesley.
+**Link Video YouTube:** https://youtu.be/mU0eOEsuxX0
 
 ---
 
